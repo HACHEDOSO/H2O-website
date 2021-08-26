@@ -1,2 +1,2 @@
 # H2O-website
-Sitio web para aprender matemáticas y ciencias
+Código fuente del sitio web de HACHE DOS O.
